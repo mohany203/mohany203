@@ -21,7 +21,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/mohammed-hany-185461204" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Gabr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-hany-185461204" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Gabr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wa.me/201010374439" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Gabr-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 
