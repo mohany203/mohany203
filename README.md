@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical%20Engineer%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Biomedical engineering student at Helwan University
+- 🏢 I'm a biomedical engineering student at Helwan University
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 🔥  Passionate about programming, eager to bridge the gap between medicine and technology while acquiring new skills.
 - 💡 Building upon my foundational knowledge, I am actively expanding my expertise in web development, embedded C, Python, and C++.
